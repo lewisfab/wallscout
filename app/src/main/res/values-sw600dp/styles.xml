@@ -1,0 +1,7 @@
+<resources>
+    <!-- Tablets: keep content to a readable column in the middle of the screen. -->
+    <style name="ContentColumn">
+        <item name="android:layout_width">600dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+</resources>

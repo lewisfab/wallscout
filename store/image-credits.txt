@@ -1,0 +1,18 @@
+Images shown inside the store screenshots and feature graphic
+=============================================================
+All from NASA's Image and Video Library (https://images.nasa.gov). NASA material is not
+copyrighted unless noted. Look up any ID at https://images.nasa.gov/details/<ID>
+
+Home screen preview:  PIA26718  Goldstone DSS-15 antenna and the Milky Way (NASA/JPL-Caltech)
+Lock screen preview:  GSFC_20171208_Archive_e000842  Pillars of Creation (NASA, ESA, Hubble)
+History grid:         iss045e013851, iss052e004998, art002e021278, PIA15985, iss071e256593,
+                      iss058e005282, GSFC_20171208_Archive_e002076, iss071e439624, PIA04227,
+                      iss040e117958, iss071e418742, iss030e119777
+
+Feature graphic (concept A, "a week of wallpapers"), from store/src/nasa/:
+  Mon GSFC_20171208_Archive_e000842 (Pillars of Creation), Tue iss040e117958 (aurora from the ISS),
+  Wed PIA26718 (Milky Way over Goldstone), Thu GSFC_20171208_Archive_e002076 (Carina Nebula)
+
+Tablet screenshots (tablet-0*.png) use the same NASA images, sized for the tablet screen.
+
+The images were placed in the app only for these screenshots.

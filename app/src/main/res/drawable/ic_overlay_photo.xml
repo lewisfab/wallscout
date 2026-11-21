@@ -1,0 +1,11 @@
+<!-- Photo half of the preview refresh button (stays still while the arrows spin). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M8.7,7.2h6.6a1.5,1.5 0,0 1,1.5 1.5v6.6a1.5,1.5 0,0 1,-1.5 1.5h-6.6a1.5,1.5 0,0 1,-1.5 -1.5v-6.6a1.5,1.5 0,0 1,1.5 -1.5zM7.6,14.8L10.3,11.9L12.3,13.9L13.6,12.7L16.6,15.3L16.6,16.9L13.6,14.3L12.3,15.5L10.3,13.5L7.6,16.4ZM13.2,9.8a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+</vector>

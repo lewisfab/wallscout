@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/previews"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:visibility="gone">
+
+    <LinearLayout
+        android:id="@+id/homeColumn"
+        style="@style/PreviewColumn"
+        android:layout_marginEnd="8dp">
+        <TextView android:id="@+id/homeLabel" style="@style/Label" android:text="Home screen" />
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView android:id="@+id/homePreview" style="@style/PreviewImage" android:contentDescription="Home screen wallpaper" />
+            <ImageButton android:id="@+id/homeStar" style="@style/StarButton" android:contentDescription="Favorite home screen image" />
+            <ImageButton android:id="@+id/homeTrash" style="@style/TrashButton" android:contentDescription="Block home screen image" />
+            <FrameLayout
+                android:id="@+id/homeRefresh"
+                style="@style/RefreshButton"
+                android:contentDescription="New home screen image">
+                <ImageView style="@style/RefreshLayer" android:src="@drawable/ic_overlay_photo" />
+                <ImageView android:id="@+id/homeRefreshArrows" style="@style/RefreshLayer" android:src="@drawable/ic_overlay_arrows" />
+            </FrameLayout>
+        </FrameLayout>
+        <TextView android:id="@+id/homeTime" style="@style/Label" android:layout_marginTop="6dp" android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lockColumn"
+        style="@style/PreviewColumn"
+        android:layout_marginStart="8dp">
+        <TextView style="@style/Label" android:text="Lock screen" />
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView android:id="@+id/lockPreview" style="@style/PreviewImage" android:contentDescription="Lock screen wallpaper" />
+            <ImageButton android:id="@+id/lockStar" style="@style/StarButton" android:contentDescription="Favorite lock screen image" />
+            <ImageButton android:id="@+id/lockTrash" style="@style/TrashButton" android:contentDescription="Block lock screen image" />
+            <FrameLayout
+                android:id="@+id/lockRefresh"
+                style="@style/RefreshButton"
+                android:contentDescription="New lock screen image">
+                <ImageView style="@style/RefreshLayer" android:src="@drawable/ic_overlay_photo" />
+                <ImageView android:id="@+id/lockRefreshArrows" style="@style/RefreshLayer" android:src="@drawable/ic_overlay_arrows" />
+            </FrameLayout>
+        </FrameLayout>
+        <TextView android:id="@+id/lockTime" style="@style/Label" android:layout_marginTop="6dp" android:visibility="gone" />
+    </LinearLayout>
+</LinearLayout>

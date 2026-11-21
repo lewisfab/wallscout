@@ -1,0 +1,5 @@
+<en-US>
+• New welcome screen: pick a few topics and get your first wallpaper right away.
+• Better on tablets: content sits in a comfortable column, and History shows more wallpapers at once.
+• Backups are now labeled for Wallscout. Older backups still import.
+</en-US>

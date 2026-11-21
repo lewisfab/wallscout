@@ -1,0 +1,51 @@
+APP NAME (max 30)
+Wallscout
+
+SHORT DESCRIPTION (max 80)
+A new wallpaper, found and set for you automatically. Set it and forget it.
+
+FULL DESCRIPTION (max 4000)
+Wallscout is always on the lookout for your next wallpaper, so you don't have to be.
+
+Tell it what you're into, like space, mountains, cities or the ocean, and walk away. On your schedule, it searches Wallhaven, picks a fresh high-resolution image, and sets it as your wallpaper. No browsing, no saving, no scrolling through collections. Just a different look every time you pick up your phone.
+
+HOW IT WORKS
+1. Add a few search terms.
+2. Choose how often: every day, or as often as every hour.
+3. That's it. Wallscout does the finding and the swapping.
+
+HANDS-OFF BY DESIGN
+Wallscout isn't a wallpaper library or a gallery to curate. It's built to surprise you. Every change is a new find, and it remembers what it has already shown you so it avoids repeats. Not every pick will be a winner, and that's part of the fun. When one misses, tap the trash icon: Wallscout never shows it again and swaps in a new one straight away.
+
+STEER IT, DON'T MANAGE IT
+• Search terms set the mood; Wallscout picks one each time.
+• Exclude anything you never want to see.
+• "Photos only" skips anime, digital art and renders.
+• Portrait-friendly and sharp: prefer images that fit your phone's tall screen, and turn on "Sharp images only" to skip any that would be stretched.
+• Use different images on your home and lock screens, or the same one on both.
+
+STAYS OUT OF YOUR WAY
+• Changes happen in the background at about the time you choose.
+• Update only on Wi-Fi if you like.
+• Pause any time, for a day, a week or until you resume.
+• Want something new right now? Tap refresh, or use the Quick Settings tile from your pull-down menu.
+• Optional alert if a scheduled change ever fails.
+
+WHEN ONE'S A KEEPER
+Star it. Turn on "Include favorites" and your favorites can come back around in the rotation, and your recent history is there if you want an earlier wallpaper back. You can also save the full-size image to your photos, or fine-tune brightness, saturation and blur.
+
+PRIVATE BY DESIGN
+No account, no ads, no tracking. Your settings stay on your phone. Wallscout only talks to Wallhaven to find and download wallpapers.
+
+SAFE FOR WORK, ALWAYS
+Wallscout only requests images Wallhaven marks safe-for-work. NSFW and suggestive images are always excluded, and there is no setting to turn them on.
+
+Images are provided by wallhaven.cc. Tap any preview to see its page, uploader and original source. Wallscout is an independent app and is not affiliated with Wallhaven.
+
+
+GRAPHICS (files in this folder)
+App icon:          icon-512.png
+Feature graphic:   feature-graphic.png
+Phone screenshots: screenshot-01-main.png, screenshot-02-history.png, screenshot-03-adjust.png, screenshot-04-settings.png
+7-inch AND 10-inch tablet screenshots (same four files in both): tablet-01-welcome.png, tablet-02-main.png, tablet-03-history.png, tablet-04-adjust.png
+Video and Chromebook screenshots: optional, leave empty

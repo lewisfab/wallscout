@@ -1,0 +1,31 @@
+# Build output and IDE/tool caches
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+.DS_Store
+
+# Machine-specific SDK path
+local.properties
+
+# Signing keys and their passwords (never commit)
+signing/
+*.keystore
+*.jks
+*.p12
+upload.properties
+
+# Built apps and bundles
+*.apk
+*.aab
+releases/
+
+# Personal app-data backups and scratch captures from a real device
+store/raw/
+
+# Maintainer notes (Play Console admin) and the privacy page, which has its own repo
+NEXT-RELEASE.md
+RELEASES.md
+privacy-policy.html
+privacy-site/

@@ -1,0 +1,6 @@
+<en-US>
+Meet Wallscout: a new name and icon.
+• New "Sharp images only" setting skips images smaller than your screen.
+• Clearer note that NSFW images are always excluded.
+• "Allow background updates" now explains it's optional.
+</en-US>
